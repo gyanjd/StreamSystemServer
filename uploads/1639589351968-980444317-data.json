@@ -1,0 +1,22 @@
+[
+    {"sl" : 1, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 1, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 2, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 2, "hashtag" : ["swimming"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 3, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 3, "hashtag" : ["bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 4, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 4, "hashtag" : ["awesome"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 5, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 5, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 6, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 6, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 7, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 7, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 8, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 8, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 9, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 9, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 10, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 10, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 11, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 11, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 12, "username": "Seth", "location": "London", "text": "hello world", "tweet_count" : 12, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 13, "username": "Anuj", "location": "Pune", "text": "hello bitter", "tweet_count" : 1, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 14, "username": "Anuj", "location": "Pune", "text": "hello bitter", "tweet_count" : 2, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 15, "username": "Anuj", "location": "Pune", "text": "hello bitter", "tweet_count" : 3, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 16, "username": "Anuj", "location": "Pune", "text": "hello bitter", "tweet_count" : 4, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 17, "username": "Anuj", "location": "Pune", "text": "hello bitter", "tweet_count" : 5, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 18, "username": "Anuj", "location": "Pune", "text": "hello bitter", "tweet_count" : 6, "hashtag" : ["awesome", "bikeride"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 19, "username": "Gyan", "location": "Guwahati", "text": "bye bye professor", "tweet_count" : 1, "hashtag" : ["netflix", "moneyheist"], "created_at" : 1639477288000, "updated_at" : 1639477288000},
+    {"sl" : 20, "username": "Gyan", "location": "Guwahati", "text": "happy new year", "tweet_count" : 2, "hashtag" : ["gocoronago", "besafe"], "created_at" : 1639477288000, "updated_at" : 1639477288000}
+]

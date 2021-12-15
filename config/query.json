@@ -1,0 +1,10 @@
+{
+    "query" : [
+        { "id" : 0 , "type" : "tweets of username"},
+        { "id" : 1 , "type" : "tweets from location" },
+        { "id" : 2 , "type" : "tweets using hashtag" },
+        { "id" : 3 , "type" : "tweets using above or equal to" },
+        { "id" : 4 , "type" : "Exact tweets" }
+
+    ]
+}
